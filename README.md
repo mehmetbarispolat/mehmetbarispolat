@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **System Design**
 
-- 💬 Ask me about **Python, Vue**
+- 💬 Ask me about **Python, Vue, ElasticSearch, MongoDB**
 
 - 📫 How to reach me **me@mehmetbarispolat.dev**
 
